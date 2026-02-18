@@ -1,12 +1,15 @@
 site_name: Being & Nothingness
+site_url: https://akarshit9314.github.io/being-and-nothingness/
+use_directory_urls: true
 
 theme:
   name: material
 
 nav:
   - Home: index.md
+  - Welcome: Welcome.md
   - Metaphysics:
-      - Defination and scope: metaphysics/Defination-and-scope.md
-      - Contingency Argument: metaphysics/contingency.md
-  - Ethics: 
-      - categorical_imperative : Ethics/categorical_imperative.md
+      - Definition and Scope: metaphysics/Defination-and-scope.md
+      - Contingency Argument: metaphysics/Contingency_Argument.md
+  - Ethics:
+      - Categorical Imperative: ethics/categorical_imperative.md

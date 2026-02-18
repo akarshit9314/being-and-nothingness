@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/metaphysics/Defination-and-scope.md.md",
+                "file": "docs/Welcome.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defination-and-scope.md"
+              "title": "Welcome.md"
             }
           }
         ]
@@ -185,41 +185,42 @@
   },
   "active": "b02bfbd634e0d8d8",
   "lastOpenFiles": [
-    "Untitled.base",
-    "docs/Welcome.md.md",
     "docs/index.md.md",
+    "docs/Welcome.md.md",
     "docs/metaphysics/Defination-and-scope.md.md",
+    "site/search/search_index.json",
+    "site/search",
+    "site/metaphysics/Defination-and-scope.md/index.html",
+    "site/metaphysics/Contingency.md/index.html",
+    "site/metaphysics/Defination-and-scope.md",
+    "site/metaphysics/Contingency.md",
+    "site/metaphysics",
+    "site/Ethics/categorical_imperative.md/index.html",
+    "site/Ethics/categorical_imperative.md",
+    "site/Ethics",
+    "site/index.md/index.html",
+    "site/index.md",
+    "site/Welcome.md/index.html",
+    "site/Welcome.md",
+    "site/404.html",
+    "site/assets/images/favicon.png",
     "docs/metaphysics/Contingency.md.md",
     "docs/Ethics/categorical_imperative.md.md",
     "docs/metaphysics/Defination and scope/Introduction.md.md",
-    "docs/metaphysics/Defination and scope",
-    "docs/Ethics",
     "site/docs/index.md",
-    "docs/metaphysics",
-    "docs",
     "wave_particle_duality.md",
-    "mkdocs.yml",
     "site/docs/relations/identity.md",
     "Nodes 1/Physics/wave_particle_duality.md",
     "Nodes 1/Physics/quantum_vacuum.md",
     "Nodes 1/Metaphysics/nothing.md",
     "Nodes 1/Metaphysics/being.md",
     "Nodes 1/Metaphysics/becoming.md",
-    "Nodes 1/Physics",
-    "Nodes 1/Epistemology",
-    "Nodes 1/Metaphysics",
-    "Nodes 1",
     "site/docs/relations/contradiction.md",
     "site/docs/nodes/physics/wave_particle_duality.md",
     "site/docs/views/being_nothing_becoming.md",
     "Welcome.md",
     "site/docs/nodes/Metaphysics/nothing.md",
     "site/docs/nodes/Metaphysics/becoming.md",
-    "site/docs/nodes/Metaphysics/being.md",
-    "site/docs/relations/emergence.md",
-    "site/docs/relations/negation.md",
-    "Views/Untitled.canvas",
-    "Relations/negation/Untitled.md",
-    "site/docs/nodes/physics/quantum_vacuum.md"
+    "Views/Untitled.canvas"
   ]
 }
