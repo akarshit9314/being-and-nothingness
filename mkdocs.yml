@@ -1,0 +1,12 @@
+site_name: Being & Nothingness
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Metaphysics:
+      - Defination and scope: metaphysics/Defination-and-scope.md
+      - Contingency Argument: metaphysics/contingency.md
+  - Ethics: 
+      - categorical_imperative : Ethics/categorical_imperative.md
